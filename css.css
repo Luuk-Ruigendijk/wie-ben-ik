@@ -1,0 +1,16 @@
+body {
+    background-color: cyan;
+    background-image: url("bg.jpeg");
+    background-size: 1600px 1200px;
+}
+
+h1 {
+    color: color: black;
+    text-align: center;
+}
+
+p {
+	color: color: black;
+    font-family: "Arial", cursive, sans-serif;
+    font-size: 20px;
+}
